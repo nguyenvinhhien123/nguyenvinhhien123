@@ -25,7 +25,7 @@ This GitHub profile is where I store my tools, scripts, writeups, and learning j
 
 
 ## Contact
-- 💌 Email: nguyenvinhhien2004@gmail.com
+- 💌 **Email**: nguyenvinhhien2004@gmail.com
 
 
 ---
