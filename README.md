@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://tenor.com/view/rc-r32-crash-drift-initial-d-gif-19794212" alt="Night Kids" />
+  <a href="https://tenor.com/view/rc-r32-crash-drift-initial-d-gif-19794212">
+    <img src="https://tenor.com/view/rc-r32-crash-drift-initial-d-gif-19794212" alt="Night Kids" width="600" />
+  </a>
 </p>
 
-<p align="center">  
-Just a normal guy learning Cyber Security
+<p align="center">
+  Just a normal guy learning Cyber Security
 </p>
-
 ---
 
 
