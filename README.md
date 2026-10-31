@@ -1,7 +1,5 @@
-<p align="center">
-  <a href="https://tenor.com/view/rc-r32-crash-drift-initial-d-gif-19794212">
-    <img src="https://tenor.com/view/rc-r32-crash-drift-initial-d-gif-19794212" alt="Night Kids" width="600" />
-  </a>
+ <p align="center">
+  <img src="https://media1.tenor.com/m/UqqNvaFfJq8AAAAd/rc-r32.gif" alt="Night Kids" width="600" />
 </p>
 
 <p align="center">
