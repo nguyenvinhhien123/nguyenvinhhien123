@@ -7,7 +7,6 @@
 <p align="center">
   Just a normal guy learning Cyber Security
 </p>
----
 
 
 ## Currently Learning
