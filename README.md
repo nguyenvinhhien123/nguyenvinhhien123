@@ -1,18 +1,19 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/UMJGdUm6j18AAAAC/mr-robot-show.gif" alt="Mr. Robot Show" />
+  <img src="https://tenor.com/view/rc-r32-crash-drift-initial-d-gif-19794212" alt="Night Kids" />
 </p>
 
-<p align="center">
-Hi! I am cybersecurity learner focusing on Web Security, Pentesting,  Malware, and CTF challenges.  
-This GitHub profile is where I store my tools, scripts, writeups, and learning journey in security.
+<p align="center">  
+Just a normal guy learning Cyber Security
 </p>
 
 ---
 
 
-## 📚 Currently Learning
-- **Web Pentesting**
+## Currently Learning
+- **Web Penatration**
 - **Reverse Engineering**
+- **Cloud Engineering**
+- **Machine Learning (ML)**
 
 ---
 
